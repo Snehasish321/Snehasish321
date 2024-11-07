@@ -1,6 +1,3 @@
-
-
-preview
 <h1 align="center">Hi 👋, I'm Snehasish Mondal</h1>
 <h3 align="center">Passionate Coder | 2nd Year B.Tech CSE Student | React, TypeScript, JavaScript Enthusiast | Skilled in C & C++ | From India</h3>
 
