@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Snehasish Mondal</h1>
 <h3 align="center">Passionate Coder | 2nd Year B.Tech CSE Student | React, TypeScript, JavaScript Enthusiast | Skilled in C & C++ | From India</h3>
 
-- 🔭 I’m currently working on [E-Commerce Website](https://github.com/Snehasish321/eCommerce.git)
+- 🔭 I’m currently working on [Nothing](http://localhost:5173/)
 
 - 🌱 I’m currently learning *React,NodeJs,NextJs,Typescript,Tailwind*
 
